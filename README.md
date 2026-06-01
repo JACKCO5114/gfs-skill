@@ -15,7 +15,9 @@ gfs-reading
 故意的。"什么书都值得读读看"是句正确的废话，给不出任何决定。把标准收窄到"当下任务匹配度"，才能给出干脆的裁决，也才能帮你从一堆别人塞来的书单里解脱出来。
 
 怎么用
-把整个文件夹放进你的 Claude skills 目录，然后：
+ 把地址复制到任何agent  ，↓↓
+  
+  安装一下 https://github.com/JACKCO5114/gfs-skill
 
 直接说：/gfs-reading
 或者：「这本《XXX》我现在该读吗，我这周在做……」
@@ -57,7 +59,9 @@ gfs-reading
 
 ## 怎么用
 
-把整个文件夹放进 Claude skills 目录，或把 SKILL.md 的内容贴进任何支持自定义提示的 AI / Obsidian AI 插件。然后：
+  把地址复制到任何agent  ，↓↓
+  
+  安装一下 https://github.com/JACKCO5114/gfs-skill
 
 - `/肉身翻译` 或 `/flesh`
 - 或直接说：「把这句话肉身翻译一下：……」
